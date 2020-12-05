@@ -10,18 +10,29 @@ PC客户端（C-S架构）渗透测试checklist：[https://github.com/theLSA/CS-
 
 ## 目录
 
-* [hack-cs-tools：PC客户端渗透工具包](#hack-cs-toolspc\xE5\xAE\xA2\xE6\x88\xB7\xE7\xAB\xAF\xE6\xB8\x97\xE9\x80\x8F\xE5\xB7\xA5\xE5\x85\xB7\xE5\x8C\x85)
-      * [目录](#\xE7\x9B\xAE\xE5\xBD\x95)
-         * [环境（env/）](#\xE7\x8E\xAF\xE5\xA2\x83env)
-         * [审计（audit/）](#\xE5\xAE\xA1\xE8\xAE\xA1audit)
-         * [.net反编译（dotnet/）](#net\xE5\x8F\x8D\xE7\xBC\x96\xE8\xAF\x91dotnet)
-         * [java反编译（java/）](#java\xE5\x8F\x8D\xE7\xBC\x96\xE8\xAF\x91java)
-         * [逆向（reverse）](#\xE9\x80\x86\xE5\x90\x91reverse)
-         * [PE信息（peinfo/）](#pe\xE4\xBF\xA1\xE6\x81\xAFpeinfo)
-         * [代理（proxy/）](#\xE4\xBB\xA3\xE7\x90\x86proxy)
-         * [注册表（reg/）](#\xE6\xB3\xA8\xE5\x86\x8C\xE8\xA1\xA8reg)
-         * [抓包（sniff/）](#\xE6\x8A\x93\xE5\x8C\x85sniff)
-         * [其他（misc/）](#\xE5\x85\xB6\xE4\xBB\x96misc)
+* [hack-cs-tools：PC客户端渗透工具包](#hack-cs-toolspc客户端渗透工具包)
+      
+      * [目录](#目录)
+         
+         * [环境（env/）](#环境env)
+         
+         * [审计（audit/）](#审计audit)
+         
+         * [dotnet反编译（dotnet/）](#dotnet反编译dotnet)
+         
+         * [java反编译（java/）](#java反编译java)
+         
+         * [逆向（reverse）](#逆向reverse)
+         
+         * [PE信息（peinfo/）](#pe信息peinfo)
+         
+         * [代理（proxy/）](#代理proxy)
+         
+         * [注册表（reg/）](#注册表reg)
+         
+         * [抓包（sniff/）](#抓包sniff)
+         
+         * [其他（misc/）](#其他misc)
 
 
 ### 环境（env/）
@@ -37,7 +48,7 @@ BinScope_x64.msi
 VCG-Setup.msi
 
 
-### .net反编译（dotnet/）
+### dotnet反编译（dotnet/）
 
 de4dot
 
