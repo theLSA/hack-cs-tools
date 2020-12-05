@@ -11,80 +11,102 @@ PC客户端（C-S架构）渗透测试checklist：[https://github.com/theLSA/CS-
 ## 目录
 
 
+
+
 ### 环境（env/）
 
-**python-2.7.16.msi**
+python-2.7.16.msi
 
 
 
 ### 审计（audit/）
 
-**BinScope_x64.msi**
-**VCG-Setup.msi**
+BinScope_x64.msi
+
+VCG-Setup.msi
 
 
 ### .net反编译（dotnet/）
 
-**de4dot
+de4dot
+
 dnspy
+
 DotNet Id_查看.net代码混淆所用的工具.exe
+
 ildasm.exe
+
 ilspy
+
 JetBrains.dotPeek.2019.2.2.web.exe
-sae14.4**
+
+sae14.4
 
 
 
 ### java反编译（java/）
 
-**jad158g.win.zip
+jad158g.win.zip
+
 jadx
-jd-gui**
+
+jd-gui
 
 ### 逆向（reverse）
 
-**ollydbg**
+ollydbg
 
 
 
 ### PE信息（peinfo/）
 
-**CFF_Explorer.zip
+CFF_Explorer.zip
+
 ExeinfoPe.zip
+
 PEiD 0.95.zip
+
 PESecurity-master.zip
-StudyPE+ x64 109b0.rar**
+
+StudyPE+ x64 109b0.rar
 
 
 
 ### 代理（proxy/）
 
-**proxifier**
+proxifier
 
 
 
 ### 注册表（reg/）
 
-**regfromapp-x64.zip
-Regshot-1.9.0.7z**
+regfromapp-x64.zip
+
+Regshot-1.9.0.7z
 
 
 
 ### 抓包（sniff/）
 
-**Burp_Suite_Pro_v1.7.37_Loader_Keygen.zip
+Burp_Suite_Pro_v1.7.37_Loader_Keygen.zip
+
 EchoMirage-3.1.exe
+
 Wireshark-win32-1.10.14.exe
-WSExplorer_jb51.rar**
+
+WSExplorer_jb51.rar
 
 
 
 ### 其他（misc/）
 
-**dvta-master.zip
+dvta-master.zip
+
 ExplorerSuite.exe
+
 processhacker-2.39-bin.zip
-reflexil.for.ILSpy.2.3.bin.zip**
+
+reflexil.for.ILSpy.2.3.bin.zip
 
 
 
