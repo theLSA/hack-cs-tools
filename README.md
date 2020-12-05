@@ -11,27 +11,16 @@ PC客户端（C-S架构）渗透测试checklist：[https://github.com/theLSA/CS-
 ## 目录
 
 * [hack-cs-tools：PC客户端渗透工具包](#hack-cs-toolspc客户端渗透工具包)
-      
       * [目录](#目录)
-         
          * [环境（env/）](#环境env)
-         
          * [审计（audit/）](#审计audit)
-         
          * [dotnet反编译（dotnet/）](#dotnet反编译dotnet)
-         
          * [java反编译（java/）](#java反编译java)
-         
-         * [逆向（reverse）](#逆向reverse)
-         
+         * [逆向（reverse）](#逆向reverse) 
          * [PE信息（peinfo/）](#pe信息peinfo)
-         
          * [代理（proxy/）](#代理proxy)
-         
          * [注册表（reg/）](#注册表reg)
-         
          * [抓包（sniff/）](#抓包sniff)
-         
          * [其他（misc/）](#其他misc)
 
 
